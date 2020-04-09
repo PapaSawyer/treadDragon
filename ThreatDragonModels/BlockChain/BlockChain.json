@@ -1,0 +1,18 @@
+{
+  "summary": {
+    "title": "BlockChain",
+    "owner": "Komanov P.A.",
+    "description": "Blockchain cybersecurity thread sheme."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Diagram1",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "Komarov I.I."
+  }
+}
